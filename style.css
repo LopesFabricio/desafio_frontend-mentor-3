@@ -3,8 +3,7 @@
 }
 
 body{
-    background-color: azure;
-    
+    background-color: hsl(210, 46%, 95%);
 }
 .container{
     position: relative;
